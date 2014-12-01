@@ -27,20 +27,25 @@ A step-by-step guide on how to install Robot Framework IDE (RIDE) on a mac.
 		
 ######7. Install wxPython
 		http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/	
-
-######8. Download Ride Robot
+######8. Install Robot Framework
+		pip install robotframework
+		
+######9. Install Robot Framework RIDE
 		pip install robotframework-ride
 		
-######9. MacOS 10.7+ (Mavericks)
+######10. Install Selenium2 Library
+		pip install robotframework-selenium2library
+		
+######11. MacOS 10.7+ (Mavericks)
 		export VERSIONER_PYTHON_PREFER_32_BIT=yes
 		
-######10. Install Paver (Python Package Manager)
+######12. Install Paver
 		pip install -U Paver
 		Usage: paver test
 		Integration tests can be run by 'paver integrate'
 		
-######11. Install VirtualEnv (Virtual Python Environment builder)
+######13. Install VirtualEnv (Virtual Python Environment builder)
 		pip install virtualenv	
 
-######12. Start RIDE
+######14. Start RIDE
 		ride.py		
