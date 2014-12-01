@@ -1,7 +1,7 @@
 RIDE-install
 ============
 
-A step-by-step guide on how to install RIDE RobotFramework on a mac.
+A step-by-step guide on how to install Robot Framework IDE (RIDE) on a mac.
 
 <br/>
 
@@ -26,8 +26,7 @@ A step-by-step guide on how to install RIDE RobotFramework on a mac.
 		Allow apps downloaded from > Check on "Anywhere".
 		
 ######7. Install wxPython
-		http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/
-<br/>		
+		http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/	
 
 ######8. Download Ride Robot
 		pip install robotframework-ride
