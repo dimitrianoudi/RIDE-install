@@ -33,7 +33,7 @@ Turn off Gatekeeper
 		
 Install wxPython
 
-		[http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/](http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/)
+		http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/
 		
 Install Robot Framework
 
