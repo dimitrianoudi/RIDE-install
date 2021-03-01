@@ -13,10 +13,10 @@ ii. Download pip
 		https://bootstrap.pypa.io/get-pip.py
 		
 iii. Install pip
-		python get-pip.py
+		```python get-pip.py```
 		
 iv. Upgrade setuptools
-		pip install -U setuptools
+		`pip install -U setuptools`
 		
 v. Upgrade pip
 		pip install -U pip
