@@ -19,13 +19,15 @@ iv. Upgrade setuptools
 		pip install -U setuptools
 		
 v. Upgrade pip
-		pip install -U pip		
+		pip install -U pip
+		
 vi. Turn off Gatekeeper
 		System Preferences > Security & Privacy > General > 
 		Allow apps downloaded from > Check on "Anywhere".
 		
 vii. Install wxPython
-		http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/	
+		http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/
+		
 viii. Install Robot Framework
 		pip install robotframework
 		
